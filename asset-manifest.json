@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/vintage-academy/static/css/main.23cbc26b.chunk.css",
-    "main.js": "/vintage-academy/static/js/main.4dda64e5.chunk.js",
-    "main.js.map": "/vintage-academy/static/js/main.4dda64e5.chunk.js.map",
+    "main.js": "/vintage-academy/static/js/main.d309ae7b.chunk.js",
+    "main.js.map": "/vintage-academy/static/js/main.d309ae7b.chunk.js.map",
     "runtime-main.js": "/vintage-academy/static/js/runtime-main.479bf974.js",
     "runtime-main.js.map": "/vintage-academy/static/js/runtime-main.479bf974.js.map",
-    "static/js/2.60bca5ee.chunk.js": "/vintage-academy/static/js/2.60bca5ee.chunk.js",
-    "static/js/2.60bca5ee.chunk.js.map": "/vintage-academy/static/js/2.60bca5ee.chunk.js.map",
+    "static/js/2.e676da56.chunk.js": "/vintage-academy/static/js/2.e676da56.chunk.js",
+    "static/js/2.e676da56.chunk.js.map": "/vintage-academy/static/js/2.e676da56.chunk.js.map",
     "index.html": "/vintage-academy/index.html",
     "static/css/main.23cbc26b.chunk.css.map": "/vintage-academy/static/css/main.23cbc26b.chunk.css.map",
-    "static/js/2.60bca5ee.chunk.js.LICENSE.txt": "/vintage-academy/static/js/2.60bca5ee.chunk.js.LICENSE.txt"
+    "static/js/2.e676da56.chunk.js.LICENSE.txt": "/vintage-academy/static/js/2.e676da56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.479bf974.js",
-    "static/js/2.60bca5ee.chunk.js",
+    "static/js/2.e676da56.chunk.js",
     "static/css/main.23cbc26b.chunk.css",
-    "static/js/main.4dda64e5.chunk.js"
+    "static/js/main.d309ae7b.chunk.js"
   ]
 }
