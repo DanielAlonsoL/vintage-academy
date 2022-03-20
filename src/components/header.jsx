@@ -12,7 +12,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='/search'
+                  href='/vintage-academy/search'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Buscar
